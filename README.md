@@ -1,7 +1,7 @@
 # ElixirNode-Mainnet
 
    ```bash
-wget https://raw.githubusercontent.com/USER/REPO/main/install-mainnet.sh && chmod +x install-mainnet.sh && ./install-mainnet.sh
+wget https://raw.githubusercontent.com/retrunv0id/ElixirNodeMainnet/main/install-mainnet.sh && chmod +x install-mainnet.sh && ./install-mainnet.sh
    ```
 
 # Main features:
